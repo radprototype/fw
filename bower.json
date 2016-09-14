@@ -1,0 +1,18 @@
+{
+  "name"       : "fw",
+  "description": "",
+  "main"       : "",
+  "authors"    : [
+    "anonymoussc <50c5ac69@opayq.com>"
+  ],
+  "license"    : "MIT",
+  "homepage"   : "https://github.com/radprototype/fw",
+  "private"    : true,
+  "ignore"     : [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
