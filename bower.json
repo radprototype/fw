@@ -1,18 +1,27 @@
 {
-  "name"       : "fw",
-  "description": "",
-  "main"       : "",
-  "authors"    : [
+  "name"        : "fw",
+  "description" : "",
+  "main"        : "",
+  "authors"     : [
     "anonymoussc <50c5ac69@opayq.com>"
   ],
-  "license"    : "MIT",
-  "homepage"   : "https://github.com/radprototype/fw",
-  "private"    : true,
-  "ignore"     : [
+  "license"     : "MIT",
+  "homepage"    : "https://github.com/radprototype/fw",
+  "private"     : true,
+  "ignore"      : [
     "**/.*",
     "node_modules",
     "bower_components",
     "test",
     "tests"
-  ]
+  ],
+  "dependencies": {
+    "angular"            : "~1.5",
+    "angular-ui-router"  : "~1.0.0-alpha.3",
+    "ngstorage"          : "~0.3.10",
+    "angular-material"   : "~1.0.8",
+    "restangular"        : "~1.5.2",
+    "angular-loading-bar": "~0.9.0",
+    "satellizer"         : "^0.14.0"
+  }
 }
