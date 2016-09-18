@@ -7,3 +7,6 @@ Homestead.yaml
 .env
 /bower_components
 /app_components
+public/js
+public/css
+public/build
