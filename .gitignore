@@ -1,12 +1,10 @@
-/node_modules
-/public/storage
 /vendor
-/.idea
-Homestead.json
+/node_modules
 Homestead.yaml
+Homestead.json
 .env
 /bower_components
-/app_components
 public/js
 public/css
 public/build
+public/views

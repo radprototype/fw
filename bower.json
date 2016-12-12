@@ -1,14 +1,9 @@
 {
-  "name"        : "fw",
-  "description" : "",
-  "main"        : "",
-  "authors"     : [
-    "anonymoussc <50c5ac69@opayq.com>"
+  "name": "laravel5-angular-material-starter",
+  "authors": [
+    "Jad Joubran <jad@jadjoubran.com>"
   ],
-  "license"     : "MIT",
-  "homepage"    : "https://github.com/radprototype/fw",
-  "private"     : true,
-  "ignore"      : [
+  "ignore": [
     "**/.*",
     "node_modules",
     "bower_components",
@@ -16,24 +11,12 @@
     "tests"
   ],
   "dependencies": {
-    "angular"                    : "~1.5",
-    "angular-ui-router"          : "~1.0.0-alpha.3",
-    "ngstorage"                  : "~0.3.10",
-    "angular-material"           : "~1.0.8",
-    "restangular"                : "~1.5.2",
-    "angular-loading-bar"        : "~0.9.0",
-    "satellizer"                 : "^0.14.0",
-
-    "angular-material-icons"     : "~0.6.0",
-    "lodash"                     : "~3.10.0",
-    "svg-morpheus"               : "~0.1.8",
-    "angular-material-data-table": "~0.9.9",
-    "animate.css"                : "~3.5.1",
-    "angular-markdown-directive" : "~0.3.1",
-    "v-accordion"                : "~1.5.1",
-    "angular-messages"           : "~1.5.0",
-    "angular-sanitize"           : "~1.5.0",
-    "angular-translate"          : "~2.10.0",
-    "prism"                      : "~1.4.1"
+    "angular": "~1.5",
+    "angular-ui-router": "~1.0.0-alpha.3",
+    "ngstorage": "~0.3.10",
+    "angular-material": "~1.0.8",
+    "restangular": "~1.5.2",
+    "angular-loading-bar": "~0.9.0",
+    "satellizer": "^0.14.0"
   }
 }
